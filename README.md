@@ -10,7 +10,7 @@ Please take into account that:
 
 If you use this software, please cite the following paper:
 
-Reference to be posted soon. Please contact us.
+A. Burguera. Lightweight Underwater Visual Loop Detection and Classification using a Siamese Convolutional Neural Network. In 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS), Oldenburg (Germany) - On-line, 2021.
 
 ## Credits
 
